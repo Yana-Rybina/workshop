@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Yana-Rybina/workshop/issues"
   },
-  "homepage": "https://github.com/Yana-Rybina/workshop#readme"
+  "homepage": "https://github.com/Yana-Rybina/workshop#readme",
+  "dependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
